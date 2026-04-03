@@ -16,6 +16,7 @@ Praticar a criação de interfaces visuais modernas, explorando efeitos como tra
 ---
 
 ## 🌐 Visualizar projeto
+https://liadaine.github.io/glassmorphism-ui/
 
 
 ---
